@@ -65,11 +65,6 @@ p {
   margin-top: 30px;
 }
 
-/* .rating-state .rate1,
-.rate2,
-.rate3,
-.rate4,
-.rate5 { */
 .rating-state .rateNum {
   width: 40px;
   height: 40px;
@@ -86,26 +81,6 @@ p {
   background-color: var(--lightGrey);
   color: var(--white);
 }
-
-/* .rating-state .rate2:hover {
-  background-color: var(--lightGrey);
-  color: var(--white);
-}
-
-.rating-state .rate3:hover {
-  background-color: var(--lightGrey);
-  color: var(--white);
-}
-
-.rating-state .rate4:hover {
-  background-color: var(--lightGrey);
-  color: var(--white);
-}
-
-.rating-state .rate5:hover {
-  background-color: var(--lightGrey);
-  color: var(--white);
-} */
 
 .rating-state .submit {
   width: 100%;
@@ -124,8 +99,6 @@ p {
 }
 
 /* Rating state end */
-
-
 
 
 /* Thank you state start */
